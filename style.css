@@ -1,0 +1,25 @@
+.check{
+    background-color: aqua;
+    padding: 20px;
+}
+.check:hover{
+    background-color: gray;
+}
+.check ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    list-style-image: url(images/tick.png);
+}
+.check li{
+    padding: 5px;
+    color: blueviolet;
+    margin: 10px 5px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    
+}
+
+.check li:hover{
+    color: black;
+}
+    
